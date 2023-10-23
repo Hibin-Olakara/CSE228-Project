@@ -2,7 +2,7 @@
 Generate strong and secure random passwords with ease using this repository. This Java-based tool provides a simple and customizable solution for creating complex passwords to enhance your online security.
 ## Key Features:
 ## 1) Customizable Parameters:
-Tailor your passwords by specifying parameters such as length, character sets (uppercase, lowercase, numbers, special characters), and the number of passwords to generate.
+Tailor your passwords by specifying parameters such as length and character sets (uppercase, lowercase, numbers, special characters).
 ## 2) Secure Randomization:
 The repository utilizes Java's secure random number generator for maximum password strength.
 ## 3) Ease of Use:
