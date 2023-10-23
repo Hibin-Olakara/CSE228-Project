@@ -11,3 +11,4 @@ The well-documented code and user-friendly interface make it easy for both begin
 Incorporate this password generator into your Java applications, scripts, or projects with minimal effort.
 # 5) Open Source:
 This repository is open source, meaning you can contribute, modify, and adapt it to suit your specific needs or use it as a learning resource for Java development.
+
